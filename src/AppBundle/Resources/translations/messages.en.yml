@@ -1,0 +1,15 @@
+command:
+  config:
+    description: 'Get pay dates for given year'
+    help: 'This command allows you to list all pay dates for given year'
+    yearInputHelp: 'Year for pay dates'
+  errors:
+    fileError: "Unable to open file command !"
+    invalidInput: "Year is not valid!"
+    yearOutOfRange: "Invalid Year! Supported year is between 1000 - 9999"
+
+  FieldHeader:
+    MonthName: 'Month Name'
+    1stExpense: 'Expenses day 1'
+    2ndExpanse: 'Expenses day 2'
+    salaryDay: 'Salary day'

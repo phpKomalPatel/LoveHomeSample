@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":192:{a:2:{s:7:"defects";a:1:{s:60:"Tests\AppBundle\Controller\PayDatesServiceTest::testGetDates";i:3;}s:5:"times";a:1:{s:60:"Tests\AppBundle\Controller\PayDatesServiceTest::testGetDates";d:0.009;}}}
